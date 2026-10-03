@@ -30,6 +30,14 @@ This project analyzes retail sales data to uncover key business insights, such a
 
 ---
 
+## 🤖 Machine Learning Model (Sales Prediction)
+* **Algorithm:** Linear Regression (`scikit-learn`)
+* **Features Used:** Unit Price, Quantity, Cost of Goods Sold (COGS)
+* **Performance:** Evaluated using Mean Squared Error (MSE) and R-squared ($R^2$) score.
+* **Evaluation Chart:** Included as `model_results.png`.
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
